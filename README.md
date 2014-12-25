@@ -17,6 +17,6 @@ Bundle 'TimothyYe/vim-tips'
 :BundleInstall
 ```
 ##Usage
-In Vim, use ":VimTips" to get and show one random vim tip:
+In Vim, use command ":VimTips" to get and show one random vim tip:
 
 ![](screenshots/vim-plugin.png)
