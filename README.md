@@ -10,7 +10,7 @@ Use Vundle to install this plugin:
 * Modify .vimrc file
 * Add one line:
 ```
-Bundle 'TimothyYe/vim-tips'
+Plugin 'TimothyYe/vim-tips'
 ```
 * Save .vimrc file, start vim, install this plugin using:
 ```
