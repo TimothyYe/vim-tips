@@ -20,3 +20,4 @@ Plugin 'TimothyYe/vim-tips'
 In Vim, use command ":VimTips" to get and show one random vim tip:
 
 ![](screenshots/vim-plugin.png)
+![](screenshots/vim-tips.gif)
