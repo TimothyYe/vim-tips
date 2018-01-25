@@ -3,9 +3,9 @@ vim-tips
 
 A vim plugin to show tips of vim in Vim editor.
 
-##Requirement
+## Requirement
 Need ruby environment.
-##Install
+## Install
 Use Vundle to install this plugin:
 * Modify .vimrc file
 * Add one line:
@@ -16,7 +16,7 @@ Plugin 'TimothyYe/vim-tips'
 ```
 :BundleInstall
 ```
-##Usage
+## Usage
 In Vim, use command ":VimTips" to get and show one random vim tip:
 
 ![](screenshots/vim-plugin.png)
